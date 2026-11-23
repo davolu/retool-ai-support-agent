@@ -1,0 +1,19 @@
+as_of=2026-11-23T20:00:00+01:00
+customers=25 tickets=120
+status={'resolved': 44, 'open': 18, 'in_progress': 26, 'escalated': 12, 'waiting_on_customer': 20}
+stuck_open_or_in_progress_over_48h=28
+stuck_ticket_numbers=TCK-1007, TCK-1008, TCK-1015, TCK-1017, TCK-1019, TCK-1020, TCK-1022, TCK-1025, TCK-1027, TCK-1028, TCK-1029, TCK-1032, TCK-1034, TCK-1036, TCK-1039, TCK-1051, TCK-1053, TCK-1060, TCK-1062, TCK-1068, TCK-1071, TCK-1073, TCK-1077, TCK-1080, TCK-1081, TCK-1084, TCK-1085, TCK-1102
+sample_stuck=
+  TCK-1007 customer_id=3 status=open priority=high hours_stale=552.3 subject=Change the company billing email
+  TCK-1008 customer_id=2 status=in_progress priority=high hours_stale=504.2 subject=Change the company billing email
+  TCK-1015 customer_id=1 status=in_progress priority=urgent hours_stale=480.4 subject=Tax amount looks incorrect
+  TCK-1017 customer_id=24 status=in_progress priority=high hours_stale=420.2 subject=Feature request: saved filter views
+  TCK-1019 customer_id=25 status=open priority=medium hours_stale=456.6 subject=Invoice shows the wrong plan
+  TCK-1020 customer_id=22 status=open priority=high hours_stale=384.1 subject=Mobile app keeps logging me out
+  TCK-1022 customer_id=23 status=in_progress priority=urgent hours_stale=400.7 subject=How do I export a CSV of last month's orders?
+  TCK-1025 customer_id=20 status=in_progress priority=medium hours_stale=336.4 subject=Wrong warehouse was assigned
+maya_okonkwo_tickets=4
+  TCK-1015 in_progress urgent Tax amount looks incorrect
+  TCK-1031 resolved medium Dashboard is loading slowly
+  TCK-1063 waiting_on_customer medium Cannot sign in after password reset
+  TCK-1102 open medium Need to close this demo account
