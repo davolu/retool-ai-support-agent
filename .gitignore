@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*secret*
+*credentials*
+*connection-string*
+*.local
+.DS_Store
+Thumbs.db
+node_modules/
+.idea/
+.vscode/
+# Do not commit live Retool secrets that may appear in ad-hoc exports
+**/workflow-api-key*
+**/retool_wk_*

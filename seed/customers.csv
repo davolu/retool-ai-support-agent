@@ -1,0 +1,26 @@
+id,first_name,last_name,email,company,plan,created_at
+1,Maya,Okonkwo,maya.okonkwo@example.com,Brightleaf Foods,pro,2026-08-27 11:34:00+01:00
+2,Tomas,Rivera,tomas.rivera@example.com,Harbor and Co Demo,starter,2026-08-29 04:44:00+01:00
+3,Priya,Nair,priya.nair@example.com,Lotus Paper Goods,pro,2026-08-31 17:41:00+01:00
+4,Jonah,Adeyemi,jonah.adeyemi@example.com,Sahel Bike Share,enterprise,2026-09-02 09:59:00+01:00
+5,Elena,Vasquez,elena.vasquez@example.com,Mesa Craft Studio,free,2026-09-04 17:30:00+01:00
+6,Kwame,Boateng,kwame.boateng@example.com,Accra Lantern Labs,pro,2026-09-06 19:53:00+01:00
+7,Sophie,Laurent,sophie.laurent@example.com,Rue Sage Books,starter,2026-09-08 10:09:00+01:00
+8,Daniel,Cho,daniel.cho@example.com,Pacific Rim Tea,pro,2026-09-10 16:41:00+01:00
+9,Amina,Yusuf,amina.yusuf@example.com,Kano Textile House,starter,2026-09-11 23:58:00+01:00
+10,Luca,Bianchi,luca.bianchi@example.com,Trattoria Ficta,free,2026-09-14 00:56:00+01:00
+11,Hannah,Berg,hannah.berg@example.com,Fjord Office Supply,enterprise,2026-09-16 15:43:00+01:00
+12,Omar,Haddad,omar.haddad@example.com,Cedar Wellness Demo,pro,2026-09-18 15:47:00+01:00
+13,Grace,Mwangi,grace.mwangi@example.com,Nairobi Plant Co,starter,2026-09-20 06:56:00+01:00
+14,Nathan,Cole,nathan.cole@example.com,Maple Desk Works,pro,2026-09-22 00:34:00+01:00
+15,Yuki,Tanaka,yuki.tanaka@example.com,Paper Crane Stationery,free,2026-09-24 15:16:00+01:00
+16,Fatima,Diallo,fatima.diallo@example.com,Dakar Solar Kits,enterprise,2026-09-26 18:01:00+01:00
+17,Benito,Cruz,benito.cruz@example.com,Azul Print Shop,starter,2026-09-28 18:49:00+01:00
+18,Ingrid,Holm,ingrid.holm@example.com,Aurora Knitwear,pro,2026-09-30 09:44:00+01:00
+19,Samuel,Okeke,samuel.okeke@example.com,Enugu Tool Library,free,2026-10-02 08:11:00+01:00
+20,Chloe,Martin,chloe.martin@example.com,Pine and Needle Co,starter,2026-10-04 09:54:00+01:00
+21,Ravi,Patel,ravi.patel@example.com,Midtown Spice Market,pro,2026-10-06 06:55:00+01:00
+22,Lila,Hassan,lila.hassan@example.com,Oasis Learning Hub,enterprise,2026-10-08 19:12:00+01:00
+23,Peter,Novak,peter.novak@example.com,Danube Components,starter,2026-10-10 09:40:00+01:00
+24,Amara,Mensah,amara.mensah@example.com,Kumasi Bead Studio,free,2026-10-12 07:16:00+01:00
+25,Owen,Fraser,owen.fraser@example.com,Thistle Software Demo,pro,2026-10-14 03:18:00+01:00
